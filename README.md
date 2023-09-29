@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![An image of @shivamkumarthakur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivamkumarthakur)](https://holopin.io/@shivamkumarthakur)
+![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
 
 <!--
 **shivam-kumar-thakur/shivam-kumar-thakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
